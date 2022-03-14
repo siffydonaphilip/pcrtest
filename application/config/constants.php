@@ -85,4 +85,4 @@ defined('EXIT__AUTO_MIN')      OR define('EXIT__AUTO_MIN', 9); // lowest automat
 defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
 
 //--------------------------------------------------------------
-define('base_url', "https://qzolve-apps.com/aster_pcr/");
+define('base_url', "http://localhost/qzolve_pcrtest/");
