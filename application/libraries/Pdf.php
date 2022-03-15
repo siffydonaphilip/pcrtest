@@ -43,7 +43,7 @@ class Pdf
         $mpdf->SetAuthor('Admin');
         $mpdf->SetCreator('Qzolve.com');
         $mpdf->SetDisplayMode('fullpage');
-        $mpdf->SetHTMLHeader('<img src="'. base_url() . 'skin/img/1TOP.jpg" style="width:100%;"/> ', '', true);
+        $mpdf->SetHTMLHeader('<img src="'. base_url() . 'skin/img/tn_new.jpg" style="width:100%;"/> ', '', true);
         
         $mpdf->SetHTMLFooter('<img src="'. base_url() . 'skin/img/footer.jpg" style="width:100%;"/>', '', true);
 
@@ -139,7 +139,7 @@ class Pdf
         $mpdf->SetAuthor('Admin');
         $mpdf->SetCreator('Qzolve.com');
         $mpdf->SetDisplayMode('fullpage');
-        $mpdf->SetHTMLHeader('<img src="'. base_url() . 'skin/img/TOP_POSTIVE.jpg" style="width:100%;"/> ', '', true);
+        $mpdf->SetHTMLHeader('<img src="'. base_url() . 'skin/img/tn_new.jpg" style="width:100%;"/> ', '', true);
         
         $mpdf->SetHTMLFooter('<img src="'. base_url() . 'skin/img/footer.jpg" style="width:100%;"/>', '', true);
 
@@ -234,7 +234,7 @@ class Pdf
         $mpdf->SetAuthor('Admin');
         $mpdf->SetCreator('Qzolve.com');
         $mpdf->SetDisplayMode('fullpage');
-        $mpdf->SetHTMLHeader('<img src="'. base_url() . 'skin/img/TOP_NEGATIVE.jpg" style="width:100%;"/> ', '', true);
+        $mpdf->SetHTMLHeader('<img src="'. base_url() . 'skin/img/tn_new.jpg" style="width:100%;"/> ', '', true);
         
         $mpdf->SetHTMLFooter('<img src="'. base_url() . 'skin/img/footer.jpg" style="width:100%;"/>', '', true);
 
@@ -329,7 +329,7 @@ class Pdf
         $mpdf->SetAuthor('Admin');
         $mpdf->SetCreator('Qzolve.com');
         $mpdf->SetDisplayMode('fullpage');
-        $mpdf->SetHTMLHeader('<img src="'. base_url() . 'skin/img/rejected_ns.jpg" style="width:100%;"/> ', '', true);
+        $mpdf->SetHTMLHeader('<img src="'. base_url() . 'skin/img/tn_new.jpg" style="width:100%;"/> ', '', true);
         
         $mpdf->SetHTMLFooter('<img src="'. base_url() . 'skin/img/footer.jpg" style="width:100%;"/>', '', true);
 
